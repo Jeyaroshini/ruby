@@ -1,0 +1,51 @@
+---
+results:
+- gender: female
+  name:
+    title: Mrs
+    first: Veronica
+    last: Schley
+  location:
+    street:
+      number: 7902
+      name: Kirchgasse
+    city: Bamberg
+    state: Saarland
+    country: Germany
+    postcode: 96000
+    coordinates:
+      latitude: "-54.5762"
+      longitude: '29.9925'
+    timezone:
+      offset: "+8:00"
+      description: Beijing, Perth, Singapore, Hong Kong
+  email: veronica.schley@example.com
+  login:
+    uuid: fcadc81b-f0ee-41e6-9436-788cb4e40870
+    username: happyladybug577
+    password: colnago
+    salt: a44f4AMq
+    md5: 726bb736b12968b3473e2fc135ae4e1b
+    sha1: da91163fd5194c8f5225a9ef91faaeb1f3b4cf83
+    sha256: 99be1aa2f09f43ade4ca34aad29500c17c1a6f0515b662e59fb410549581fe40
+  dob:
+    date: '1973-11-15T16:19:15.300Z'
+    age: 49
+  registered:
+    date: '2018-04-16T09:06:11.365Z'
+    age: 4
+  phone: '0293-0540934'
+  cell: 0177-8217299
+  id:
+    name: SVNR
+    value: 38 151173 S 937
+  picture:
+    large: https://randomuser.me/api/portraits/women/69.jpg
+    medium: https://randomuser.me/api/portraits/med/women/69.jpg
+    thumbnail: https://randomuser.me/api/portraits/thumb/women/69.jpg
+  nat: DE
+info:
+  seed: 6ef25b1bc7ce6a16
+  results: 1
+  page: 1
+  version: '1.4'
